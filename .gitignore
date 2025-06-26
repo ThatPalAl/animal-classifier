@@ -1,0 +1,7 @@
+data/
+*.tar
+.venv/
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/

@@ -1,0 +1,5 @@
+fastai==2.7.12
+gradio==3.50.2
+torch==1.13.1
+torchvision==0.14.1
+pandas

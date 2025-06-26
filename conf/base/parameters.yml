@@ -1,0 +1,2 @@
+image_folder: "data/01_raw"
+model_output_path: "data/06_models/model.pkl"
